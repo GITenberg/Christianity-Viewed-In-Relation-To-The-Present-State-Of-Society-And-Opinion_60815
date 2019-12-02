@@ -1,5 +1,8 @@
 _repo: Christianity-Viewed-In-Relation-To-The-Present-State-Of-Society-And-Opinion_60815
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guizot, François
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
     - https://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60815#Christianity-Viewed-In-Relation-To-The-Present-State-Of-Society-And-Opinion
 gutenberg_issued: '2019-11-30'
 gutenberg_type: Text
 identifiers:
