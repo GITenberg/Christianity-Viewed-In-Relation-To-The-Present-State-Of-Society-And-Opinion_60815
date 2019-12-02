@@ -1,0 +1,32 @@
+_repo: Christianity-Viewed-In-Relation-To-The-Present-State-Of-Society-And-Opinion_60815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, M. (François)
+    - Guizot, FranÃ§ois
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, Monsieur (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+    - https://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_issued: '2019-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Christianity Viewed In Relation To The Present State Of Society And Opinion.
+url: http://www.gutenberg.org/ebooks/60815
